@@ -1,4 +1,4 @@
-- idea
+- idea (duoc 1 cai roi)
 - report done
 - 1 quỉklab
 - codelab done
